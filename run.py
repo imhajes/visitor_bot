@@ -13,5 +13,5 @@ def bot(url, _type="GET", header={}, data={}):
 if __name__ == "__main__":
     url = "<Input_URL>"
 
-    for i in tqdm(range(100)):
+    for i in tqdm(range(82947)):
         bot(url)
