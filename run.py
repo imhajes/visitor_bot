@@ -1,5 +1,6 @@
 import requests
-import json
+import time
+from random import randint
 from tqdm import tqdm
 
 def bot(url, _type="GET", header={}, data={}):
@@ -11,7 +12,9 @@ def bot(url, _type="GET", header={}, data={}):
     return html
 
 if __name__ == "__main__":
-    url = "<Input_URL>"
+    url = "<URL>"
 
-    for i in tqdm(range(82947)):
+    print("Start raising ...")
+    while True:
+        time.sleep(randint(0, 1))
         bot(url)
