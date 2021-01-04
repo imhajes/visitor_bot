@@ -1,12 +1,10 @@
+![LICENSE][LICENSE]
+
 # Raising visitor bot
 
 
 
-![LICENSE][LICENSE]
-
-
-
-> 방문자 수를 올려주는 봇입니다.
+> 방문자 증가 봇
 
 
 
