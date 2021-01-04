@@ -8,7 +8,7 @@
 
 
 
-HTTP 방식의 호출로 인한 Visitor count increase 방식을 위한 방문자 수 증가 봇입니다.
+HTTP통신의 Visitor count increase 방식을 위한 방문자 수 증가 봇입니다.
 
 
 
