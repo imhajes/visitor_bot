@@ -1,7 +1,12 @@
 # Raising visitor bot
-> 방문자 수를 올려주는 봇입니다.
+
+
 
 ![LICENSE][LICENSE]
+
+
+
+> 방문자 수를 올려주는 봇입니다.
 
 
 
@@ -9,16 +14,15 @@ HTTP 방식의 호출로 인한 Visitor count increase 방식을 위한 방문�
 
 
 
-Project Organization
-------------
+## Project Organization
 
-    ├── README.md          
-    ├── LICENSE
-    ├── .gitignor
-    ├── requirements.txt
-    └── run.py
-
------
+```
+├── README.md          
+├── LICENSE
+├── .gitignor
+├── requirements.txt
+└── run.py
+```
 
 
 
@@ -51,8 +55,6 @@ url 변수에 조회수를 증가시 킬 대상의 URL 주소를 입력합니다
 ## Meta
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
-
-
 
 837477
 
