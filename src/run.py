@@ -12,7 +12,7 @@ def bot(url, _type="GET", header={}, data={}):
     return html
 
 if __name__ == "__main__":
-    url = "<Target_URL>"
+    url = "https://mobile.twitter.com/h4j3s"
 
     print("Start raising ...")
     while True:
